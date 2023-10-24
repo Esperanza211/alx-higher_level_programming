@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
-""" Square class """
 
 class Square:
-    ''' An empty class that defines a square '''
+    """
+    empty class for Square
+    """
     pass
